@@ -7,7 +7,7 @@ This is a quick bruteforcing tool I wrote to work on the Bludit CMS platform to 
 ## How to use?
 
 ```console
-git clone https://github.com/TikvahTerminator/BlunderBruteforce.git
+git clone https://github.com/TikvahTerminator/BluditBruteforce.git
 cd BlunderBruteforce
 python3 Bludit_Bruteforce.py [Webhost] [Password Wordlist] [Username to try]
 ```
